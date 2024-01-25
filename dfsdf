@@ -1,0 +1,32 @@
+[33mcommit bc41808f230f7ec421e380c362480e31ea809db4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Parham <p_mohammadi@fanshaweonline.ca>
+Date:   Wed Jan 24 22:40:39 2024 -0500
+
+    you message about the changes you made
+
+[33mcommit d22d44522c3d7b80253db62e5b0dddbfd2edf93e[m
+Author: TamDalimot <tamdeneal.dalimot.duyan@gmail.com>
+Date:   Wed Jan 24 21:56:24 2024 -0500
+
+    commit from tam local machine
+
+[33mcommit 1724662ca7631305f5c7a6a94015441090d2e610[m
+Merge: e2be7e1 583d8e2
+Author: Romel Lozendo <144309225+rlozendo@users.noreply.github.com>
+Date:   Tue Jan 23 20:18:11 2024 -0500
+
+    Merge pull request #1 from rlozendo/feature-branch
+    
+    Update README.md
+
+[33mcommit 583d8e21fea91324dc37ab85296b908b34f67a59[m[33m ([m[1;31morigin/feature-branch[m[33m)[m
+Author: Romel Lozendo <144309225+rlozendo@users.noreply.github.com>
+Date:   Tue Jan 23 20:12:36 2024 -0500
+
+    Update README.md
+
+[33mcommit e2be7e131a351297ea6f25ae38f18c05ddaf3dbd[m
+Author: Romel Lozendo <144309225+rlozendo@users.noreply.github.com>
+Date:   Tue Jan 23 20:06:05 2024 -0500
+
+    Initial commit
